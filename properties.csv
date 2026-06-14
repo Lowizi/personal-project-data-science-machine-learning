@@ -1,0 +1,31 @@
+﻿Property ID,Location,Property Type,Monthly Rent (Ł),Status
+P001,"Notting Hill, London",1BR Flat,"1,850.00",Active
+P002,"Canary Wharf, London",2BR Flat,"2,750.00",Active
+P003,Manchester City Centre,3BR House,"1,600.00",Active
+P004,Leeds Headingley,2BR Flat,"1,100.00",Vacant
+P005,Edinburgh New Town,1BR Flat,"1,400.00",Active
+P006,Birmingham Jewellery,Studio,850,Active
+P007,Bristol Clifton,2BR House,"1,550.00",Maintenance
+P008,"Notting Hill, London",3BR House,"4,200.00",Active
+P009,"Canary Wharf, London",Studio,"1,200.00",Active
+P010,Manchester Didsbury,2BR House,"1,350.00",Active
+P011,Leeds City Centre,1BR Flat,950,Active
+P012,Edinburgh Marchmont,2BR Flat,"1,350.00",Vacant
+P013,Birmingham Edgbaston,3BR House,"1,450.00",Active
+P014,Bristol Bedminster,Studio,780,Active
+P015,Glasgow West End,1BR Flat,"1,050.00",Active
+P016,"Canary Wharf, London",3BR Flat,"3,900.00",Active
+P017,"Notting Hill, London",2BR Flat,"3,100.00",Maintenance
+P018,Manchester Chorlton,1BR Flat,"1,000.00",Active
+P019,Leeds Roundhay,3BR House,"1,350.00",Active
+P020,Edinburgh Leith,Studio,900,Vacant
+P021,Birmingham Harborne,2BR Flat,"1,200.00",Active
+P022,Bristol Southville,2BR House,"1,480.00",Active
+P023,Glasgow City Centre,2BR Flat,"1,250.00",Active
+P024,"Canary Wharf, London",1BR Flat,"2,100.00",Active
+P025,Manchester Salford,3BR Flat,"1,750.00",Active
+P026,"Notting Hill, London",Studio,"1,500.00",Active
+P027,Leeds Horsforth,2BR House,"1,150.00",Active
+P028,Edinburgh Bruntsfield,3BR House,"2,200.00",Active
+P029,Birmingham Moseley,1BR Flat,920,Maintenance
+P030,Bristol Redland,3BR House,"1,950.00",Active
